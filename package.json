@@ -1,6 +1,6 @@
 {
-  "name": "text-ellipsis",
-  "version": "0.1.0",
+  "name": "@takeda4dcs/text-ellipsis",
+  "version": "0.1.1",
   "description": "Provide clipped string functions.",
   "main": "dist/index.js",
   "scripts": {
@@ -15,5 +15,6 @@
     "jest": "^29.7.0",
     "ts-jest": "^29.1.2",
     "typescript": "^5.3.3"
-  }
+  },
+  "types": "./dist/index.d.ts"
 }
