@@ -2,9 +2,9 @@
   "name": "text-ellipsis",
   "version": "0.1.0",
   "description": "Provide clipped string functions.",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
-    "test": "jest ./spec"
+    "test": "npx jest"
   },
   "keywords": [],
   "author": "Eiji Takeda",
