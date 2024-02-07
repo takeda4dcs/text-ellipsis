@@ -1,3 +1,5 @@
+![execute-test workflow](https://github.com/github/docs/actions/workflows/execute-test.yaml/badge.svg)
+
 [@takeda4dcs/text-ellipsis](README.md) / Exports
 
 # @takeda4dcs/text-ellipsis
