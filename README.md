@@ -1,7 +1,5 @@
 ![execute-test workflow](https://github.com/takeda4dcs/text-ellipsis/actions/workflows/execute-test.yaml/badge.svg)
 
-[@takeda4dcs/text-ellipsis](README.md) / Exports
-
 # @takeda4dcs/text-ellipsis
 
 ## Table of contents
@@ -36,7 +34,7 @@ clipped string
 
 #### Defined in
 
-[index.ts:62](https://github.com/takeda4dcs/text-ellipsis/blob/09729ea/index.ts#L62)
+[index.ts:62](https://github.com/takeda4dcs/text-ellipsis/blob/81ca3a4/index.ts#L62)
 
 ___
 
@@ -63,7 +61,7 @@ clipped string
 
 #### Defined in
 
-[index.ts:12](https://github.com/takeda4dcs/text-ellipsis/blob/09729ea/index.ts#L12)
+[index.ts:12](https://github.com/takeda4dcs/text-ellipsis/blob/81ca3a4/index.ts#L12)
 
 ___
 
@@ -89,4 +87,4 @@ clipped string
 
 #### Defined in
 
-[index.ts:40](https://github.com/takeda4dcs/text-ellipsis/blob/09729ea/index.ts#L40)
+[index.ts:40](https://github.com/takeda4dcs/text-ellipsis/blob/81ca3a4/index.ts#L40)
