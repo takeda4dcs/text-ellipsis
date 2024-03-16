@@ -6,6 +6,10 @@
   "scripts": {
     "test": "npx jest"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/takeda4dcs/text-ellipsis.git"
+  },
   "keywords": [],
   "author": "Eiji Takeda",
   "license": "MIT",
