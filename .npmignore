@@ -1,6 +1,7 @@
 /.github
 /node_modules
 /spec
+/docs
 index.ts
 tsconfig.json
 .gitignore
