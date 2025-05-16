@@ -2,13 +2,15 @@
 
 # @takeda4dcs/text-ellipsis
 
+[Usage](/spec/index.spec.ts)
+
 ## Table of contents
 
 ### Functions
 
-- [textEllipsisEnd](modules.md#textellipsisend)
-- [textEllipsisMiddle](modules.md#textellipsismiddle)
-- [textEllipsisStart](modules.md#textellipsisstart)
+- [textEllipsisEnd](#textellipsisend)
+- [textEllipsisMiddle](#textellipsismiddle)
+- [textEllipsisStart](#textellipsisstart)
 
 ## Functions
 
